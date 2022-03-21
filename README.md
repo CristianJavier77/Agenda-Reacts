@@ -1,2 +1,0 @@
-# Calculadora-Reacts
-Agenda-reacts
